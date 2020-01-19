@@ -8,7 +8,7 @@
     },
     "version": "0.3.1",
     "publisher": "mescio-extension",
-    "icon": "https://mesc.io/logo.png",
+    "icon": "images/logo.png",
     "author": {
         "name": "Andrew David Murray",
         "email": "andrew@mesc.io"
