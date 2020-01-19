@@ -6,7 +6,7 @@
         "url": "git@github.com:mescio/mescio-extension-pack.git",
         "type": "git"
     },
-    "version": "0.3.1",
+    "version": "0.3.2",
     "publisher": "mescio-extension",
     "icon": "images/logo.png",
     "author": {
