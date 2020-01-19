@@ -6,7 +6,7 @@
         "url": "git@github.com:mescio/mescio-extension-pack.git",
         "type": "git"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "Andrew David Murray <andrew@mesc.io>",
     "engines": {
         "vscode": "^1.41.0"
