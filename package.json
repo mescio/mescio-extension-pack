@@ -8,6 +8,17 @@
     },
     "version": "0.3.0",
     "publisher": "mescio-extension",
+    "icon": "https://mesc.io/logo.png",
+    "author": {
+        "name": "Andrew David Murray",
+        "email": "andrew@mesc.io"
+    },
+    "contributors": [
+        {
+            "name": "Madalina Tipter",
+            "email": "madalina.tipter@mesc.io"
+        }
+    ],
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -15,7 +26,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "357-4e6w6-32f87-4hj65.crawlers-robots",
         "aaron-bond.better-comments",
         "azemoh.one-monokai",
         "dbaeumer.vscode-eslint",
@@ -24,7 +34,6 @@
         "formulahendry.docker-explorer",
         "GrapeCity.gc-excelviewer",
         "hollowtree.vue-snippets",
-        "liviuschera.noctis",
         "mhutchie.git-graph",
         "mikestead.dotenv",
         "mrmlnc.vscode-scss",
