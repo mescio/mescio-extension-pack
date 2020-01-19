@@ -58,7 +58,7 @@
         },
         "changelogCommand": "git log --pretty=format:'* %s (%h) - %an' --invert-grep --grep='bump to' [REV_RANGE]",
         "hooks": {
-            "after:release": "vsce publish ${version} --allow-same-version"
+            "before:bump": "vsce publish ${version}"
         }
     },
     "devDependencies": {
