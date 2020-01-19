@@ -1,0 +1,40 @@
+{
+    "name": "mescio-extension-pack",
+    "displayName": "Mescio Extension Pack",
+    "description": "Visual Studio Code Extension pack for Mescio",
+    "version": "0.1.0",
+    "publisher": "Andrew David Murray <andrew@mesc.io>",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "357-4e6w6-32f87-4hj65.crawlers-robots",
+        "aaron-bond.better-comments",
+        "azemoh.one-monokai",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "formulahendry.docker-explorer",
+        "GrapeCity.gc-excelviewer",
+        "hollowtree.vue-snippets",
+        "liviuschera.noctis",
+        "mhutchie.git-graph",
+        "mikestead.dotenv",
+        "mrmlnc.vscode-scss",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "msjsdiag.debugger-for-chrome",
+        "octref.vetur",
+        "rafaelmaiolla.diff",
+        "rbbit.typescript-hero",
+        "ritwickdey.LiveServer",
+        "ryanluker.vscode-coverage-gutters",
+        "sidthesloth.html5-boilerplate",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets"
+    ]
+}
