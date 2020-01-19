@@ -6,7 +6,7 @@
         "url": "git@github.com:mescio/mescio-extension-pack.git",
         "type": "git"
     },
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "mescio-extention-pack--expire-01-2021",
     "engines": {
         "vscode": "^1.41.0"
