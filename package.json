@@ -71,7 +71,7 @@
         }
     },
     "devDependencies": {
-        "release-it": "^12.4.3",
-        "vsce": "^1.71.0"
+        "release-it": "12.4.3",
+        "vsce": "1.73.0"
     }
 }
